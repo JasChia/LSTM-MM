@@ -1,1 +1,4 @@
-# LSTM-MM
+# Modeling Microbiota: Using LSTM to Study Vaginal Dynamics
+This is the official GitHub repository for Modeling Microbiota: Using LSTM to Study Vaginal Dynamics for the 37th 2023 AAAI student track conference. This contains the full code for the tool to analyze community microbial interactions. Furthermore, this repository includes the necessary dataset and trained model as used within the paper to replicate all work shown in the paper.
+
+The full code to train your own model can be found within the jupyter notebook labelled Full LSTM - MM, and the data parser can be found within data_parsing.py to reparse the data from the cleaned up file VMBData_clean.xlsx representing data from <a href="https://journals.asm.org/doi/10.1128/mSphere.00593-20">Daily Vaginal Microbiota Fluctuations Associated with Natural Hormonal Cycle, Contraceptives, Diet, and Exercise</a> by Stephanie D. Song, Kalpana D. Acharya, Jade E. Zhu, Christen M. Deveney, Marina R. S. Walther-Antonio, Marc J. Tetel, and Nicholas Chia.
